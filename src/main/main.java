@@ -26,5 +26,8 @@ public class main {
 		System.out.println(Arrays.toString(intarr));
 
 		System.out.println("Ini tambahan");
+		System.out.println("asd");
+		System.out.println("as434");
+
 	}
 }
