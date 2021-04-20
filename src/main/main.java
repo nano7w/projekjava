@@ -26,8 +26,8 @@ public class main {
 		System.out.println(Arrays.toString(intarr));
 
 		System.out.println("Ini tambahan");
-		System.out.println("asd");
-		System.out.println("as434");
-
+		System.out.println("alsdk");		
+		System.out.println("ini tambahan kedua ichlas");
+		System.out.println("ini tambahan ketiga ichlas");
 	}
 }
