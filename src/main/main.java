@@ -26,5 +26,7 @@ public class main {
 		System.out.println(Arrays.toString(intarr));
 
 		System.out.println("Ini tambahan");
+		System.out.println("ini tambahan kedua ichlas");
+		System.out.println("ini tambahan ketiga ichlas");
 	}
 }
