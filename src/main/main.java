@@ -29,5 +29,7 @@ public class main {
 		System.out.println("alsdk");		
 		System.out.println("ini tambahan kedua ichlas");
 		System.out.println("ini tambahan ketiga ichlas");
+		System.out.println("ini tambahan keempat ichlas");
+		System.out.println("ini tambahan kelima ichlas");
 	}
 }
